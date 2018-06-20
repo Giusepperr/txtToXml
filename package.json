@@ -1,0 +1,14 @@
+{
+  "name": "texttoxml",
+  "version": "1.0.0",
+  "description": "this transform text in XML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giusepperr",
+  "license": "MIT",
+  "dependencies": {
+    "xml-formatter": "^1.0.1"
+  }
+}
